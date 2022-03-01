@@ -1,0 +1,2 @@
+# Numerical-Introductory-Seminar
+This repository contains files related to my work for Numerical introductiory seminar at Humboldt university. Topic of my work: k-fold cross-validation. The purpose of this work was to explore cross-validation and its application in machine learning, try these applications on real world data and describe the results. For a detailed report, see file "Cross_Validation_MargaritaVartanian_610816". This report describes my work, but has no codes included. For the code, see file "CV_with_customer_churn_data_Vartanian_610816".
